@@ -1,0 +1,4 @@
+hello txt
+this is added by editor
+the text is wrong
+file show the error
